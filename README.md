@@ -7,10 +7,16 @@
 Exponenciação e radiciação;
 Inclua uma opção "Sobre" (ou "Créditos", como preferir) que exiba informações sobre o desenvolvedor e o link para o site do projeto.
 Inclua uma opção para o usuário sair do programa.
+
+
+
 ---
 ## _Screenshot_
+
 ![Tela do Programa](tela.png)
----
+
+
+
 ## _Download_
 
 Baixe o aquivo abaixo. Descompacte na pasta desejada.
