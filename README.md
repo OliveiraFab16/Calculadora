@@ -10,7 +10,7 @@ Inclua uma opção para o usuário sair do programa.
 
 
 
----
+
 ## _Screenshot_
 
 ![Tela do Programa](tela.png)
