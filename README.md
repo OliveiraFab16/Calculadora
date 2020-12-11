@@ -15,7 +15,7 @@ Inclua uma opção para o usuário sair do programa.
 
 
 
-![Tela do Programa](dist/tela.png)
+![Tela do Programa](dist/Tela.png)
 
 
 
@@ -44,6 +44,6 @@ ou, de duplo-click encima do icone programa se estiver no Windows.
 
 ---
 
-Todos os direito reservados.
+Todos os direitos reservados.
 
-&copy; [Fabricio Carvalho]((https://github.com/OliveiraFab16/Calculadora)) - Mongaguá 2020
+&copy; [Fabricio Carvalho](https://github.com/OliveiraFab16) - Mongaguá 2020
