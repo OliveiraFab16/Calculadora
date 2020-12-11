@@ -1,4 +1,4 @@
-# Calculadora Dev#
+# DevC# Calculadora
 ## O Programa
 
 - O programa deverá conter um menu de opções selecionáveis pelo usuário, que permitam que o usuário efetue operações matemáticas (o usuário digita os números desejados, e o programa exibe o resultado):
@@ -13,7 +13,7 @@ Inclua uma opção para o usuário sair do programa.
 
 ## _Screenshot_
 
-![Tela do Programa](tela.png)
+![Tela do Programa](dist/tela.png)
 
 
 
@@ -21,7 +21,7 @@ Inclua uma opção para o usuário sair do programa.
 
 Baixe o aquivo abaixo. Descompacte na pasta desejada.
 
-🗃 [Download do arquivo.zip](dist/ProjetoDevCSharp.zip)
+ Download do arquivo.zip [Cluque Aqui!](dist/julius.zip)
 
 Execute utilizando o comando abaixo:
 
@@ -38,8 +38,10 @@ ou, de duplo-click encima do icone programa se estiver no Windows.
 - [Etec Adolpho Berezin](http://eteab.com.br/cms/)
 - [Prof. Ermogenes Palacio](https://github.com/ermogenes)
 - [Prof. Diego Neri](https://github.com/diegoneri)
-- [Dev c#](https://github.com/OliveiraFab16/Calculadora)
+- [Dev C#](https://github.com/ermogenes/aulas-programacao-csharp)
 
 ---
 
 Todos os direito reservados.
+
+&copy; [Fabricio Carvalho]((https://github.com/OliveiraFab16/Calculadora)) - Mongaguá 2020
