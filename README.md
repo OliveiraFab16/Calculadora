@@ -15,7 +15,7 @@ Inclua uma opção para o usuário sair do programa.
 
 
 
-![Tela do Programa](dist/tela.png)
+![Tela do Programa](dist/Tela.png)
 
 
 
